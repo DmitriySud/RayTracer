@@ -7,14 +7,14 @@
 Используется Phong reflection model, и возможность задавать прозрачность,
     степень приломления и отражения у материалов.
 
-## Простые геометрические формы.
-
+## Простые геометрические формы
+![alt text](tests/classic_box/first.png)
     ____
 ## Сферы + зеркала
-
+![alt text](tests/mirrors/result.png)
     ____
 ## Преломление лучей
-
+![alt text](tests/distorted_box/result.png)
     ____
 ## Преломляющая и отражающая сфера
-
+![alt text](tests/box/cube.png)
